@@ -1,15 +1,6 @@
 # MyCar Online Vehicle Booking System
-### Author: Ruoqian Zhang - s3933329
-***
-## Instruction on how to compile and run Java program from command line
-1. Set JAVA_HOME environment variable in your system.  
-   Windows 10: https://www.youtube.com/watch?v=104dNWmM6Rs  
-   Mac OS Big Sur: https://www.youtube.com/watch?v=9nKIcK5-uxE
-2. Follow the instructions below to compile and run the program.  
-   - Open the terminal and navigate to the folder where you unzip this folder.   
-   - Compile the program using javac. Note *.java represent one or multiple Java files under the folder.
-   - Run the program using java. Note -cp represents -classpath which is used to find classes.
-***
+### Author: Ruoqian Zhang 
+
 
 ## Functionalities Achieved
 - Menu selection and user input operations  
