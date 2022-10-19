@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * @author - Ruoqian Zhang s3933329
  * Date - 26/08/2022
  *
- * Online Booking System for Vehicle Rentals - Demonstrating OOP in Java Programming languages
+ * Online Booking System for Vehicle Rentals - Demonstrating OOP in Java Programming language
  * For Assignment1 of COSC1295 - Advanced Programming
  */
 
